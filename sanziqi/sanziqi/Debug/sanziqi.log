@@ -1,0 +1,17 @@
+﻿生成启动时间为 2019/9/20 21:21:19。
+     1>项目“D:\bite作业\sanziqi\sanziqi\sanziqi.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt sanziqii.c
+         sanziqii.c
+     1>d:\bite作业\sanziqi\sanziqi\sanziqii.c(27): warning C4013: “printf”未定义；假设外部返回 int
+     1>d:\bite作业\sanziqi\sanziqi\sanziqii.c(58): warning C4013: “scanf”未定义；假设外部返回 int
+     1>d:\bite作业\sanziqi\sanziqi\sanziqii.c(106): warning C4715: “IsWin”: 不是所有的控件路径都返回值
+       Link:
+         D:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\bite作业\sanziqi\Debug\sanziqi.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\bite作业\sanziqi\Debug\sanziqi.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\bite作业\sanziqi\Debug\sanziqi.lib" /MACHINE:X86 Debug\sanziqi.obj
+         Debug\sanziqii.obj
+         sanziqi.vcxproj -> D:\bite作业\sanziqi\Debug\sanziqi.exe
+     1>已完成生成项目“D:\bite作业\sanziqi\sanziqi\sanziqi.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.42
